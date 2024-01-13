@@ -1,0 +1,8 @@
+.keyButton{
+    margin: 8px;
+    width: 50px;
+    height: 30px;
+    border-radius: 9px;
+    color: rgb(168, 10, 16);
+    font-size: 20px;
+}
